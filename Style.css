@@ -1,0 +1,68 @@
+/* font sites: fonts.google.com & sourceforgeo.net */
+/* fots: inter & bgp arial */
+
+body
+{
+    background-color: #c2ed9ae7;
+    font-family: "BGPArial", sans-serif;
+    color: #334155;
+    margin: 0%;
+    padding: 40px;
+    line-height: 1.6;
+}
+
+/* მთავარი სათაური */
+h1
+{
+    font-family: 'Inter', sans-serif;
+    color:#0f172a;
+    font-size:large  36px;
+    font-weight:  700;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+/* სექციების სათაური */
+h2
+{
+    color:#1e40af; 
+    font-size: 22px;
+    font-weight: 700;
+border-bottom: 2px solid #e2e8f0;
+padding-bottom: 5px;
+margin-top: 30px;
+
+}
+
+
+    /* ნავიგაციის სტილი */
+nav {
+    text-align: center;
+    margin: 20px 0;
+
+}
+nav a {
+    color:#2563eb;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0 10px;
+
+}
+nav a:hover {
+    text-decoration: underline;
+}
+/* სია */
+ul, ol {
+    margin-left: 20px;
+}
+/* footer-ის სტილი */
+footer {
+    background-color: #0f172a;
+    color: #cbd5e1;
+    text-align: right;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 13px;
+    border-radius: 8px;
+}

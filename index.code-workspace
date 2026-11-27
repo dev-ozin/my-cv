@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../index"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../index.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index"
+	}
+}
